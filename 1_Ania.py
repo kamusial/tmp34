@@ -1,1 +1,1 @@
-print('Siemano')
+print(f'Siemano')
